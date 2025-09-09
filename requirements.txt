@@ -1,23 +1,7 @@
 langchain
 langchain-core
 langchain-community
-
-langchain-openai
-openai
-
-langchain-google-genai
-google-generativeai
-
-langchain-huggingface
-transformers
-huggingface-hub
-
+langchain-groq
 python-dotenv
-
-numpy
-scikit-learn
 streamlit
 
-faiss-cpu 
-python-docx 
-pypdf
